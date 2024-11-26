@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krjsl
+- 👋 Hi, I’m @Krijal
 - 👀 I’m interested in web development and cybersecurity
 - 🌱 I’m currently learning Ethical hacking and cybersecurity
 - 💞️ I’m looking to collaborate on ...
